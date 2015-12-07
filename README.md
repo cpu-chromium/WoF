@@ -75,6 +75,11 @@ After I edit v2\foo.bmp with mspaint it seems the connection with the second ove
     fsutil wim enumfiles c : 1
         Objects enumerated : 0
 
+## Future Work
+
+It would be nice if one could just pick the sha1's from the WIM file. The format is documented:
+https://technet.microsoft.com/en-us/library/cc749478(v=ws.10).aspx
+
 
 
 
